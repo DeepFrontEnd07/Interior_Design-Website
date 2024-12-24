@@ -1,2 +1,4 @@
 # Interior_Design-Website
-ICrave Creation is a professionally designed interior design website aimed at providing users with a seamless and intuitive experience for exploring, analyzing, and purchasing premium interior products.
+. Designed and developed a fully responsive interior design website using HTML, CSS, JavaScript, and Bootstrap.
+. Developed an engaging and visually appealing user interface using modern frontend technologies.
+. Visit the Live Website: 
